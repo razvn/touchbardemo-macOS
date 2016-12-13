@@ -44,7 +44,7 @@ extension ViewController: NSTouchBarDelegate {
         //affect the bar identifier
         touchBar.customizationIdentifier = .customTouchBar
         //affect the default items and order them in the touch bar
-        touchBar.defaultItemIdentifiers = [.helloItem, .flexibleSpace, .characterPicker, .fixedSpaceSmall, .imageItem, .flexibleSpace, .okItem]
+        touchBar.defaultItemIdentifiers = [.helloItem, .flexibleSpace,.imageItem, .flexibleSpace, .okItem]
         //items allowed for customization
         touchBar.customizationAllowedItemIdentifiers = [.helloItem, .imageItem, .okItem, .characterPicker]
         

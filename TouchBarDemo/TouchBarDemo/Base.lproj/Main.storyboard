@@ -689,7 +689,6 @@
                                 </viewController>
                             </touchBarItem>
                             <touchBarSpacerItem identifier="NSTouchBarItemIdentifierFlexibleSpace" id="azA-qm-9e7"/>
-                            <touchBarTextViewItem identifier="NSTouchBarItemIdentifierCharacterPicker" id="4f9-v9-Dsn"/>
                             <colorPickerItem showsAlpha="NO" id="SXL-J6-ipk"/>
                             <touchBarPopoverItem collapsedRepresentationLabel="Show popover" id="0z5-rp-EPs">
                                 <touchBar key="popoverTouchBar" id="HF5-EV-9pd">
