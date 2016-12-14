@@ -697,7 +697,6 @@
                                             <viewController key="viewController" id="reE-8e-n8Z" customClass="MyPopoverViewController" customModule="TouchBarDemo" customModuleProvider="target">
                                                 <view key="view" translatesAutoresizingMaskIntoConstraints="NO" id="6JU-2n-TvB">
                                                     <rect key="frame" x="0.0" y="0.0" width="960" height="38"/>
-                                                    <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                                                 </view>
                                             </viewController>
                                             <size key="designTimeSize" width="960" height="38"/>

@@ -95,7 +95,7 @@ extension MyScene {
             }
         } else {
             if let last = backgrounds.last {
-                if last.position.x > self.frame.width {
+                if last.position.x - last.frame.width > self.frame.width {
                     if let first = self.backgrounds.first {
                         self.backgrounds.removeLast()
                         last.position.x = first.position.x - last.frame.width
