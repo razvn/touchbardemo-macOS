@@ -5,3 +5,4 @@ Projets de démos d'intégration de la Touch Bar dans une appli macOS présenté
 
 * TouchBarDemo - version StoryBoard
 * TouchBarDemoCode - version code
+* ToucheBar API.pdf - présentation
