@@ -15,7 +15,7 @@ class MyWindowController: NSWindowController {
     }
     
     //Tell the Window to use the viewController TouchBar
-    @available(OSX 10.12.1, *)
+    @available(OSX 10.12.2, *)
     override func makeTouchBar() -> NSTouchBar? {
         guard let viewController = contentViewController as? ViewController else {
             return nil

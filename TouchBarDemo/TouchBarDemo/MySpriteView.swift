@@ -8,7 +8,7 @@
 
 import SpriteKit
 
-@available(OSX 10.12.1, *)
+@available(OSX 10.12.2, *)
 class MySpriteView: SKView {
     
     let pauseNotification = Notification.Name("PauseNotificationId")

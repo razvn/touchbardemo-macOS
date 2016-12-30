@@ -12,7 +12,7 @@ import Cocoa
 class AppDelegate: NSObject, NSApplicationDelegate {
 
     func applicationDidFinishLaunching(_ aNotification: Notification) {
-        if #available(OSX 10.12.1, *) {
+        if #available(OSX 10.12.2, *) {
             NSApplication.shared().isAutomaticCustomizeTouchBarMenuItemEnabled = true
         }
     }

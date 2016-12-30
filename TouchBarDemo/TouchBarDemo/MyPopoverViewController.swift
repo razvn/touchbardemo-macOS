@@ -9,7 +9,7 @@
 import Cocoa
 import SpriteKit
 
-@available(OSX 10.12.1, *)
+@available(OSX 10.12.2, *)
 class MyPopoverViewController: NSViewController {
     
     override func viewDidLoad() {
